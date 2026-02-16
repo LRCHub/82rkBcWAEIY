@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Monsters and Men",
+  "base_artist": "Shiori Novella",
+  "createdAt": "2026-02-16T08:27:10.234537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time For Our Little Talks (Imagine Dragons vs. Of Monsters and Men)",
+      "artist": "Kill_mR_DJ",
+      "has_synced": true,
+      "path": "select/01_Time_For_Our_Little_Talks_(Imagine_Dragons_vs._Of_Monsters_and_Men)_Kill_mR_DJ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time For Our Little Talks (Of Monsters and Men vs. Imagine Dragons)",
+      "artist": "Kill_mR_DJ",
+      "has_synced": true,
+      "path": "select/02_Time_For_Our_Little_Talks_(Of_Monsters_and_Men_vs._Imagine_Dragons)_Kill_mR_DJ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monsters and Men",
+      "artist": "StarKid Productions",
+      "has_synced": false,
+      "path": "select/03_Monsters_and_Men_StarKid_Productions.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Monsters and Men (reprise)",
+      "artist": "StarKid Productions",
+      "has_synced": true,
+      "path": "select/04_Monsters_and_Men_(reprise)_StarKid_Productions.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Dirty Paws (Official Lyric Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/05_Of_Monsters_And_Men_-_Dirty_Paws_(Official_Lyric_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Of Monsters and Men",
+      "artist": "Human",
+      "has_synced": true,
+      "path": "select/06_Of_Monsters_and_Men_Human.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Little Talks (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/07_Of_Monsters_And_Men_-_Little_Talks_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Yellow Light (Official Lyric Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/08_Of_Monsters_And_Men_-_Yellow_Light_(Official_Lyric_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Mountain Sound (Official Lyric Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/09_Of_Monsters_And_Men_-_Mountain_Sound_(Official_Lyric_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Dirty Paws (Official Lyric Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/10_Of_Monsters_And_Men_-_Dirty_Paws_(Official_Lyric_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "monsters and men",
+      "artist": "jupiter flynn",
+      "has_synced": true,
+      "path": "select/11_monsters_and_men_jupiter_flynn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Of Monsters and Men - Mountain Sound (Official Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/12_Of_Monsters_and_Men_-_Mountain_Sound_(Official_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Of Monsters and Men - Little Talks",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/13_Of_Monsters_and_Men_-_Little_Talks_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dirty Paws - Of Monsters And Men",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/14_Dirty_Paws_-_Of_Monsters_And_Men_Various.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Love Love Love (Official Lyric Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/15_Of_Monsters_And_Men_-_Love_Love_Love_(Official_Lyric_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Of Monsters and Men - Little Talks",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/16_Of_Monsters_and_Men_-_Little_Talks_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "1790. Of Monsters and Men - Little Talks",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/17_1790._Of_Monsters_and_Men_-_Little_Talks_VA.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Of Monsters and Men - Little Talks",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/18_Of_Monsters_and_Men_-_Little_Talks_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Monsters And Men",
+      "artist": "Flower Kings",
+      "has_synced": false,
+      "path": "select/19_Monsters_And_Men_Flower_Kings.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Of Monsters And Men - Little Talks (Official Lyric Video)",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/20_Of_Monsters_And_Men_-_Little_Talks_(Official_Lyric_Video)_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Monsters and Men",
+      "artist": "Shiori Novella",
+      "has_synced": false,
+      "path": "select/pl_01_Monsters_and_Men_Shiori_Novella.txt"
+    }
+  ]
+}
